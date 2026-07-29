@@ -1,0 +1,1983 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-07-29T20:38:44.549Z",
+  "contentHash": "cbf274c6f3be95a5eb48e3eef7c02733e5cdf8dd41f9a9e002b5def22ca8c9ed",
+  "identity": {
+    "provider": "teamlinkt",
+    "leagueId": "smsv-basketball",
+    "seasonId": "57100",
+    "teamId": "892656",
+    "name": "The Tax Collectors",
+    "seasonName": "2026 Summer Men’s Season",
+    "leagueName": "SMSV Basketball · Legacy League",
+    "timezone": "America/Toronto",
+    "youtubeChannelUrl": "https://www.youtube.com/@SBLHoops"
+  },
+  "capabilities": {
+    "roster": true,
+    "standings": "derived",
+    "leagueLeaders": "derived",
+    "boxScores": true,
+    "liveScores": false,
+    "gameVideos": true
+  },
+  "team": {
+    "id": "892656",
+    "name": "The Tax Collectors",
+    "season": "2026 Summer Men’s Season",
+    "wins": 4,
+    "losses": 2,
+    "pointsFor": 493,
+    "pointsAgainst": 468,
+    "differential": 25,
+    "standing": 3
+  },
+  "roster": [
+    {
+      "id": "5236312",
+      "name": "Andre Messiha",
+      "jersey": null,
+      "gamesPlayed": 0,
+      "ppg": 0,
+      "rpg": 0,
+      "apg": 0,
+      "spg": 0,
+      "bpg": 0,
+      "fgPct": null,
+      "threePct": null,
+      "ftPct": null
+    },
+    {
+      "id": "5236305",
+      "name": "David Guirguis",
+      "jersey": null,
+      "gamesPlayed": 2,
+      "ppg": 26.5,
+      "rpg": 12,
+      "apg": 6.5,
+      "spg": 3.5,
+      "bpg": 0.5,
+      "fgPct": 54.5,
+      "threePct": 44.4,
+      "ftPct": 69.2
+    },
+    {
+      "id": "5236309",
+      "name": "George Mekhail",
+      "jersey": null,
+      "gamesPlayed": 3,
+      "ppg": 18,
+      "rpg": 4.3,
+      "apg": 2.7,
+      "spg": 1.7,
+      "bpg": 0.3,
+      "fgPct": 54.8,
+      "threePct": 41.7,
+      "ftPct": 100
+    },
+    {
+      "id": "5236310",
+      "name": "Joseph Mekhail",
+      "jersey": null,
+      "gamesPlayed": 3,
+      "ppg": 11.3,
+      "rpg": 3,
+      "apg": 1.3,
+      "spg": 1.7,
+      "bpg": 1,
+      "fgPct": 50,
+      "threePct": 40,
+      "ftPct": null
+    },
+    {
+      "id": "5236517",
+      "name": "Kabi",
+      "jersey": null,
+      "gamesPlayed": 1,
+      "ppg": 0,
+      "rpg": 1,
+      "apg": 0,
+      "spg": 0,
+      "bpg": 0,
+      "fgPct": null,
+      "threePct": null,
+      "ftPct": null
+    },
+    {
+      "id": "5236307",
+      "name": "Mario Zaki",
+      "jersey": null,
+      "gamesPlayed": 3,
+      "ppg": 3,
+      "rpg": 1,
+      "apg": 3.7,
+      "spg": 0.3,
+      "bpg": 0,
+      "fgPct": 25,
+      "threePct": 37.5,
+      "ftPct": 0
+    },
+    {
+      "id": "5236306",
+      "name": "Michael Guirguis",
+      "jersey": null,
+      "gamesPlayed": 3,
+      "ppg": 20,
+      "rpg": 7.3,
+      "apg": 5,
+      "spg": 0.7,
+      "bpg": 1,
+      "fgPct": 57.9,
+      "threePct": 28.6,
+      "ftPct": 63.6
+    },
+    {
+      "id": "5236308",
+      "name": "Wes Whitlock",
+      "jersey": null,
+      "gamesPlayed": 3,
+      "ppg": 14,
+      "rpg": 14,
+      "apg": 1.7,
+      "spg": 0.3,
+      "bpg": 0.7,
+      "fgPct": 64.5,
+      "threePct": 0,
+      "ftPct": 40
+    }
+  ],
+  "games": [
+    {
+      "id": "3730679",
+      "date": "2026-05-31",
+      "scheduledAt": "2026-05-31T08:35:00",
+      "displayTime": "08:35",
+      "state": "final",
+      "opponentId": "892655",
+      "opponentName": "Cross Bearers",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": true,
+      "teamScore": 66,
+      "opponentScore": 59,
+      "result": "W",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3730679",
+      "hasBoxScore": false,
+      "videoUrl": "https://www.youtube.com/watch?v=0r33ntYZkfg",
+      "videoTitle": "The Cross Bearers vs The Tax Collectors - May 31, 2026"
+    },
+    {
+      "id": "3731216",
+      "date": "2026-06-07",
+      "scheduledAt": "2026-06-07T19:45:00",
+      "displayTime": "19:45",
+      "state": "final",
+      "opponentId": "892657",
+      "opponentName": "The Judah Lions",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": true,
+      "teamScore": 72,
+      "opponentScore": 77,
+      "result": "L",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3731216",
+      "hasBoxScore": true,
+      "videoUrl": null,
+      "videoTitle": null
+    },
+    {
+      "id": "3745236",
+      "date": "2026-06-14",
+      "scheduledAt": "2026-06-14T19:45:00",
+      "displayTime": "19:45",
+      "state": "final",
+      "opponentId": "892658",
+      "opponentName": "St.Philopateer",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": false,
+      "teamScore": 86,
+      "opponentScore": 76,
+      "result": "W",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3745236",
+      "hasBoxScore": true,
+      "videoUrl": "https://www.youtube.com/watch?v=M9p83_FlaNo",
+      "videoTitle": "The Tax Collectors vs St.Philopateer - June 14, 2026"
+    },
+    {
+      "id": "3745239",
+      "date": "2026-06-21",
+      "scheduledAt": "2026-06-21T18:30:00",
+      "displayTime": "18:30",
+      "state": "bye",
+      "opponentId": "892654",
+      "opponentName": "Bye",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": false,
+      "teamScore": null,
+      "opponentScore": null,
+      "result": null,
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3745239",
+      "hasBoxScore": false,
+      "videoUrl": null,
+      "videoTitle": null
+    },
+    {
+      "id": "3745244",
+      "date": "2026-06-28",
+      "scheduledAt": "2026-06-28T19:45:00",
+      "displayTime": "19:45",
+      "state": "final",
+      "opponentId": "892661",
+      "opponentName": "Guardian Angels",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": false,
+      "teamScore": 97,
+      "opponentScore": 101,
+      "result": "L",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3745244",
+      "hasBoxScore": false,
+      "videoUrl": "https://www.youtube.com/watch?v=2MS3cHFXM-M",
+      "videoTitle": "The Tax Collectors vs The Guardian Angels"
+    },
+    {
+      "id": "3745250",
+      "date": "2026-07-05",
+      "scheduledAt": "2026-07-05T21:55:00",
+      "displayTime": "21:55",
+      "state": "final",
+      "opponentId": "892660",
+      "opponentName": "Gideons Warriors",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": true,
+      "teamScore": 94,
+      "opponentScore": 93,
+      "result": "W",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3745250",
+      "hasBoxScore": true,
+      "videoUrl": null,
+      "videoTitle": null
+    },
+    {
+      "id": "3745254",
+      "date": "2026-07-12",
+      "scheduledAt": "2026-07-12T21:55:00",
+      "displayTime": "21:55",
+      "state": "final",
+      "opponentId": "892659",
+      "opponentName": "The Forty",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": true,
+      "teamScore": 78,
+      "opponentScore": 62,
+      "result": "W",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3745254",
+      "hasBoxScore": false,
+      "videoUrl": null,
+      "videoTitle": null
+    },
+    {
+      "id": "3829944",
+      "date": "2026-07-19",
+      "scheduledAt": "2026-07-19T21:55:00",
+      "displayTime": "21:55",
+      "state": "unreported",
+      "opponentId": "892658",
+      "opponentName": "St.Philopateer",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": false,
+      "teamScore": null,
+      "opponentScore": null,
+      "result": null,
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3829944",
+      "hasBoxScore": false,
+      "videoUrl": null,
+      "videoTitle": null
+    },
+    {
+      "id": "3845473",
+      "date": "2026-07-26",
+      "scheduledAt": "2026-07-26T20:50:00",
+      "displayTime": "20:50",
+      "state": "unreported",
+      "opponentId": "892657",
+      "opponentName": "The Judah Lions",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": true,
+      "teamScore": null,
+      "opponentScore": null,
+      "result": null,
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3845473",
+      "hasBoxScore": false,
+      "videoUrl": null,
+      "videoTitle": null
+    }
+  ],
+  "standings": [
+    {
+      "rank": 1,
+      "teamId": "892657",
+      "teamName": "The Judah Lions",
+      "wins": 7,
+      "losses": 0,
+      "gamesPlayed": 7,
+      "winPct": 1,
+      "pointsFor": 481,
+      "pointsAgainst": 337,
+      "differential": 144,
+      "streak": "W7",
+      "form": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "rank": 2,
+      "teamId": "892661",
+      "teamName": "Guardian Angels",
+      "wins": 5,
+      "losses": 1,
+      "gamesPlayed": 6,
+      "winPct": 0.8333333333333334,
+      "pointsFor": 505,
+      "pointsAgainst": 445,
+      "differential": 60,
+      "streak": "W3",
+      "form": [
+        "W",
+        "L",
+        "W",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "rank": 3,
+      "teamId": "892656",
+      "teamName": "The Tax Collectors",
+      "wins": 4,
+      "losses": 2,
+      "gamesPlayed": 6,
+      "winPct": 0.6666666666666666,
+      "pointsFor": 493,
+      "pointsAgainst": 468,
+      "differential": 25,
+      "streak": "W2",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "W",
+        "W"
+      ]
+    },
+    {
+      "rank": 4,
+      "teamId": "892660",
+      "teamName": "Gideons Warriors",
+      "wins": 3,
+      "losses": 4,
+      "gamesPlayed": 7,
+      "winPct": 0.42857142857142855,
+      "pointsFor": 403,
+      "pointsAgainst": 437,
+      "differential": -34,
+      "streak": "L2",
+      "form": [
+        "L",
+        "W",
+        "W",
+        "L",
+        "L"
+      ]
+    },
+    {
+      "rank": 5,
+      "teamId": "892658",
+      "teamName": "St.Philopateer",
+      "wins": 2,
+      "losses": 4,
+      "gamesPlayed": 6,
+      "winPct": 0.3333333333333333,
+      "pointsFor": 406,
+      "pointsAgainst": 418,
+      "differential": -12,
+      "streak": "L3",
+      "form": [
+        "L",
+        "W",
+        "L",
+        "L",
+        "L"
+      ]
+    },
+    {
+      "rank": 6,
+      "teamId": "892659",
+      "teamName": "The Forty",
+      "wins": 2,
+      "losses": 5,
+      "gamesPlayed": 7,
+      "winPct": 0.2857142857142857,
+      "pointsFor": 467,
+      "pointsAgainst": 552,
+      "differential": -85,
+      "streak": "W1",
+      "form": [
+        "L",
+        "L",
+        "W",
+        "L",
+        "W"
+      ]
+    },
+    {
+      "rank": 7,
+      "teamId": "892655",
+      "teamName": "Cross Bearers",
+      "wins": 0,
+      "losses": 7,
+      "gamesPlayed": 7,
+      "winPct": 0,
+      "pointsFor": 202,
+      "pointsAgainst": 300,
+      "differential": -98,
+      "streak": "L7",
+      "form": [
+        "L",
+        "L",
+        "L",
+        "L",
+        "L"
+      ]
+    }
+  ],
+  "teamLeaders": [
+    {
+      "category": "ppg",
+      "label": "Points",
+      "playerName": "David Guirguis",
+      "teamName": "The Tax Collectors",
+      "value": 26.5,
+      "unit": "PPG",
+      "tied": false
+    },
+    {
+      "category": "rpg",
+      "label": "Rebounds",
+      "playerName": "Wes Whitlock",
+      "teamName": "The Tax Collectors",
+      "value": 14,
+      "unit": "RPG",
+      "tied": false
+    },
+    {
+      "category": "apg",
+      "label": "Assists",
+      "playerName": "David Guirguis",
+      "teamName": "The Tax Collectors",
+      "value": 6.5,
+      "unit": "APG",
+      "tied": false
+    },
+    {
+      "category": "spg",
+      "label": "Steals",
+      "playerName": "David Guirguis",
+      "teamName": "The Tax Collectors",
+      "value": 3.5,
+      "unit": "SPG",
+      "tied": false
+    },
+    {
+      "category": "bpg",
+      "label": "Blocks",
+      "playerName": "Joseph Mekhail",
+      "teamName": "The Tax Collectors",
+      "value": 1,
+      "unit": "BPG",
+      "tied": true
+    }
+  ],
+  "leagueLeaders": [
+    {
+      "category": "ppg",
+      "label": "Points",
+      "playerName": "Samy Hanna",
+      "teamName": "Gideons Warriors",
+      "value": 33,
+      "unit": "PPG",
+      "tied": false
+    },
+    {
+      "category": "rpg",
+      "label": "Rebounds",
+      "playerName": "Michel  Gerges",
+      "teamName": "Cross Bearers",
+      "value": 15,
+      "unit": "RPG",
+      "tied": true
+    },
+    {
+      "category": "apg",
+      "label": "Assists",
+      "playerName": "Youssef Abdel Malek",
+      "teamName": "The Forty",
+      "value": 10,
+      "unit": "APG",
+      "tied": false
+    },
+    {
+      "category": "spg",
+      "label": "Steals",
+      "playerName": "Morcos Fahmy",
+      "teamName": "The Forty",
+      "value": 4,
+      "unit": "SPG",
+      "tied": false
+    },
+    {
+      "category": "bpg",
+      "label": "Blocks",
+      "playerName": "Ted Ibrahim",
+      "teamName": "Guardian Angels",
+      "value": 3,
+      "unit": "BPG",
+      "tied": false
+    }
+  ],
+  "teamStats": {
+    "gamesWithBoxScores": 3,
+    "pointsPerGame": 84,
+    "reboundsPerGame": 38,
+    "assistsPerGame": 18.7,
+    "stealsPerGame": 7,
+    "blocksPerGame": 3.3,
+    "fieldGoalPct": 54.3,
+    "threePointPct": 38.7,
+    "freeThrowPct": 62.2
+  },
+  "boxScores": [
+    {
+      "gameId": "3731216",
+      "date": "2026-06-07",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3731216",
+      "home": {
+        "teamId": "892656",
+        "teamName": "The Tax Collectors",
+        "score": 72,
+        "players": [
+          {
+            "points": 20,
+            "rebounds": 7,
+            "assists": 6,
+            "steals": 0,
+            "blocks": 2,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 9,
+              "attempted": 13,
+              "percentage": 69.2
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 2,
+              "percentage": 50
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 1,
+              "percentage": 100
+            },
+            "playerId": "5236306",
+            "playerName": "Michael Guirguis",
+            "jersey": null
+          },
+          {
+            "points": 3,
+            "rebounds": 1,
+            "assists": 5,
+            "steals": 1,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 1,
+              "attempted": 4,
+              "percentage": 25
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 3,
+              "percentage": 33.3
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236307",
+            "playerName": "Mario Zaki",
+            "jersey": null
+          },
+          {
+            "points": 17,
+            "rebounds": 11,
+            "assists": 0,
+            "steals": 1,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 8,
+              "attempted": 11,
+              "percentage": 72.7
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 1,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 3,
+              "percentage": 33.3
+            },
+            "playerId": "5236308",
+            "playerName": "Wes Whitlock",
+            "jersey": null
+          },
+          {
+            "points": 17,
+            "rebounds": 4,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 7,
+              "attempted": 12,
+              "percentage": 58.3
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 1,
+              "percentage": 100
+            },
+            "freeThrows": {
+              "made": 2,
+              "attempted": 2,
+              "percentage": 100
+            },
+            "playerId": "5236309",
+            "playerName": "George Mekhail",
+            "jersey": null
+          },
+          {
+            "points": 15,
+            "rebounds": 2,
+            "assists": 0,
+            "steals": 4,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 6,
+              "attempted": 11,
+              "percentage": 54.5
+            },
+            "threePointers": {
+              "made": 3,
+              "attempted": 6,
+              "percentage": 50
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236310",
+            "playerName": "Joseph Mekhail",
+            "jersey": null
+          }
+        ],
+        "totals": {
+          "points": 72,
+          "rebounds": 25,
+          "assists": 13,
+          "steals": 7,
+          "blocks": 4,
+          "turnovers": 0,
+          "fouls": 0,
+          "fieldGoals": {
+            "made": 31,
+            "attempted": 51,
+            "percentage": 60.8
+          },
+          "threePointers": {
+            "made": 6,
+            "attempted": 13,
+            "percentage": 46.2
+          },
+          "freeThrows": {
+            "made": 4,
+            "attempted": 6,
+            "percentage": 66.7
+          }
+        }
+      },
+      "away": {
+        "teamId": "892657",
+        "teamName": "The Judah Lions",
+        "score": 77,
+        "players": [
+          {
+            "points": 27,
+            "rebounds": 13,
+            "assists": 8,
+            "steals": 6,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 9,
+              "attempted": 17,
+              "percentage": 52.9
+            },
+            "threePointers": {
+              "made": 5,
+              "attempted": 6,
+              "percentage": 83.3
+            },
+            "freeThrows": {
+              "made": 4,
+              "attempted": 6,
+              "percentage": 66.7
+            },
+            "playerId": "5236297",
+            "playerName": "Luke Fanous",
+            "jersey": null
+          },
+          {
+            "points": 19,
+            "rebounds": 4,
+            "assists": 1,
+            "steals": 4,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 8,
+              "attempted": 16,
+              "percentage": 50
+            },
+            "threePointers": {
+              "made": 2,
+              "attempted": 7,
+              "percentage": 28.6
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 2,
+              "percentage": 50
+            },
+            "playerId": "5236298",
+            "playerName": "John Awad",
+            "jersey": null
+          },
+          {
+            "points": 6,
+            "rebounds": 2,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 2,
+              "attempted": 4,
+              "percentage": 50
+            },
+            "threePointers": {
+              "made": 2,
+              "attempted": 3,
+              "percentage": 66.7
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236300",
+            "playerName": "Anthony Nivicki",
+            "jersey": null
+          },
+          {
+            "points": 4,
+            "rebounds": 1,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 1,
+              "attempted": 8,
+              "percentage": 12.5
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 4,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 2,
+              "attempted": 2,
+              "percentage": 100
+            },
+            "playerId": "5236301",
+            "playerName": "Luke Awadalla",
+            "jersey": null
+          },
+          {
+            "points": 7,
+            "rebounds": 6,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 3,
+              "attempted": 4,
+              "percentage": 75
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 1,
+              "percentage": 100
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236302",
+            "playerName": "Quinn McCulloch",
+            "jersey": null
+          },
+          {
+            "points": 0,
+            "rebounds": 1,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 0,
+              "attempted": 1,
+              "percentage": 0
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236303",
+            "playerName": "Mark Labib",
+            "jersey": null
+          },
+          {
+            "points": 6,
+            "rebounds": 8,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 2,
+              "attempted": 3,
+              "percentage": 66.7
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 2,
+              "attempted": 3,
+              "percentage": 66.7
+            },
+            "playerId": "5236304",
+            "playerName": "Tony Armanios",
+            "jersey": null
+          },
+          {
+            "points": 8,
+            "rebounds": 5,
+            "assists": 0,
+            "steals": 2,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 4,
+              "attempted": 11,
+              "percentage": 36.4
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 4,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 2,
+              "percentage": 0
+            },
+            "playerId": "5236522",
+            "playerName": "Youssif Nakhla",
+            "jersey": null
+          }
+        ],
+        "totals": {
+          "points": 77,
+          "rebounds": 40,
+          "assists": 15,
+          "steals": 13,
+          "blocks": 2,
+          "turnovers": 0,
+          "fouls": 0,
+          "fieldGoals": {
+            "made": 29,
+            "attempted": 64,
+            "percentage": 45.3
+          },
+          "threePointers": {
+            "made": 10,
+            "attempted": 25,
+            "percentage": 40
+          },
+          "freeThrows": {
+            "made": 9,
+            "attempted": 15,
+            "percentage": 60
+          }
+        }
+      }
+    },
+    {
+      "gameId": "3745236",
+      "date": "2026-06-14",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3745236",
+      "home": {
+        "teamId": "892658",
+        "teamName": "St.Philopateer",
+        "score": 76,
+        "players": [
+          {
+            "points": 18,
+            "rebounds": 13,
+            "assists": 7,
+            "steals": 3,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 8,
+              "attempted": 18,
+              "percentage": 44.4
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 8,
+              "percentage": 12.5
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 2,
+              "percentage": 50
+            },
+            "playerId": "5236248",
+            "playerName": "Samuel Samuel",
+            "jersey": null
+          },
+          {
+            "points": 4,
+            "rebounds": 2,
+            "assists": 1,
+            "steals": 1,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 2,
+              "attempted": 9,
+              "percentage": 22.2
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 4,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236249",
+            "playerName": "David Hanna",
+            "jersey": null
+          },
+          {
+            "points": 14,
+            "rebounds": 5,
+            "assists": 3,
+            "steals": 1,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 6,
+              "attempted": 11,
+              "percentage": 54.5
+            },
+            "threePointers": {
+              "made": 2,
+              "attempted": 3,
+              "percentage": 66.7
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236250",
+            "playerName": "Zander Girgis",
+            "jersey": null
+          },
+          {
+            "points": 24,
+            "rebounds": 14,
+            "assists": 7,
+            "steals": 3,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 11,
+              "attempted": 17,
+              "percentage": 64.7
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 2,
+              "percentage": 50
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 2,
+              "percentage": 50
+            },
+            "playerId": "5236251",
+            "playerName": "Matthew Mishrigi",
+            "jersey": null
+          },
+          {
+            "points": 12,
+            "rebounds": 2,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 4,
+              "attempted": 8,
+              "percentage": 50
+            },
+            "threePointers": {
+              "made": 4,
+              "attempted": 8,
+              "percentage": 50
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236252",
+            "playerName": "George Mishrigi",
+            "jersey": null
+          },
+          {
+            "points": 2,
+            "rebounds": 1,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 1,
+              "attempted": 1,
+              "percentage": 100
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236253",
+            "playerName": "Nader Jack",
+            "jersey": null
+          },
+          {
+            "points": 2,
+            "rebounds": 9,
+            "assists": 5,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 1,
+              "attempted": 1,
+              "percentage": 100
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236255",
+            "playerName": "Matthew Salib",
+            "jersey": null
+          },
+          {
+            "points": 0,
+            "rebounds": 2,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236256",
+            "playerName": "Mena Mathew",
+            "jersey": null
+          }
+        ],
+        "totals": {
+          "points": 76,
+          "rebounds": 48,
+          "assists": 27,
+          "steals": 8,
+          "blocks": 0,
+          "turnovers": 0,
+          "fouls": 0,
+          "fieldGoals": {
+            "made": 33,
+            "attempted": 65,
+            "percentage": 50.8
+          },
+          "threePointers": {
+            "made": 8,
+            "attempted": 25,
+            "percentage": 32
+          },
+          "freeThrows": {
+            "made": 2,
+            "attempted": 4,
+            "percentage": 50
+          }
+        }
+      },
+      "away": {
+        "teamId": "892656",
+        "teamName": "The Tax Collectors",
+        "score": 86,
+        "players": [
+          {
+            "points": 23,
+            "rebounds": 15,
+            "assists": 9,
+            "steals": 1,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 8,
+              "attempted": 16,
+              "percentage": 50
+            },
+            "threePointers": {
+              "made": 4,
+              "attempted": 9,
+              "percentage": 44.4
+            },
+            "freeThrows": {
+              "made": 3,
+              "attempted": 4,
+              "percentage": 75
+            },
+            "playerId": "5236305",
+            "playerName": "David Guirguis",
+            "jersey": null
+          },
+          {
+            "points": 15,
+            "rebounds": 4,
+            "assists": 6,
+            "steals": 1,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 5,
+              "attempted": 10,
+              "percentage": 50
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 2,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 5,
+              "attempted": 6,
+              "percentage": 83.3
+            },
+            "playerId": "5236306",
+            "playerName": "Michael Guirguis",
+            "jersey": null
+          },
+          {
+            "points": 0,
+            "rebounds": 2,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 0,
+              "attempted": 4,
+              "percentage": 0
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 3,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236307",
+            "playerName": "Mario Zaki",
+            "jersey": null
+          },
+          {
+            "points": 12,
+            "rebounds": 16,
+            "assists": 5,
+            "steals": 0,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 6,
+              "attempted": 8,
+              "percentage": 75
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236308",
+            "playerName": "Wes Whitlock",
+            "jersey": null
+          },
+          {
+            "points": 24,
+            "rebounds": 6,
+            "assists": 4,
+            "steals": 1,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 11,
+              "attempted": 18,
+              "percentage": 61.1
+            },
+            "threePointers": {
+              "made": 2,
+              "attempted": 5,
+              "percentage": 40
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236309",
+            "playerName": "George Mekhail",
+            "jersey": null
+          },
+          {
+            "points": 12,
+            "rebounds": 4,
+            "assists": 4,
+            "steals": 1,
+            "blocks": 2,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 5,
+              "attempted": 10,
+              "percentage": 50
+            },
+            "threePointers": {
+              "made": 2,
+              "attempted": 5,
+              "percentage": 40
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236310",
+            "playerName": "Joseph Mekhail",
+            "jersey": null
+          },
+          {
+            "points": 0,
+            "rebounds": 1,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236517",
+            "playerName": "Kabi",
+            "jersey": null
+          }
+        ],
+        "totals": {
+          "points": 86,
+          "rebounds": 48,
+          "assists": 31,
+          "steals": 4,
+          "blocks": 5,
+          "turnovers": 0,
+          "fouls": 0,
+          "fieldGoals": {
+            "made": 35,
+            "attempted": 66,
+            "percentage": 53
+          },
+          "threePointers": {
+            "made": 8,
+            "attempted": 24,
+            "percentage": 33.3
+          },
+          "freeThrows": {
+            "made": 8,
+            "attempted": 10,
+            "percentage": 80
+          }
+        }
+      }
+    },
+    {
+      "gameId": "3745250",
+      "date": "2026-07-05",
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3745250",
+      "home": {
+        "teamId": "892656",
+        "teamName": "The Tax Collectors",
+        "score": 94,
+        "players": [
+          {
+            "points": 30,
+            "rebounds": 9,
+            "assists": 4,
+            "steals": 6,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 10,
+              "attempted": 17,
+              "percentage": 58.8
+            },
+            "threePointers": {
+              "made": 4,
+              "attempted": 9,
+              "percentage": 44.4
+            },
+            "freeThrows": {
+              "made": 6,
+              "attempted": 9,
+              "percentage": 66.7
+            },
+            "playerId": "5236305",
+            "playerName": "David Guirguis",
+            "jersey": null
+          },
+          {
+            "points": 25,
+            "rebounds": 11,
+            "assists": 3,
+            "steals": 1,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 8,
+              "attempted": 15,
+              "percentage": 53.3
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 3,
+              "percentage": 33.3
+            },
+            "freeThrows": {
+              "made": 8,
+              "attempted": 15,
+              "percentage": 53.3
+            },
+            "playerId": "5236306",
+            "playerName": "Michael Guirguis",
+            "jersey": null
+          },
+          {
+            "points": 6,
+            "rebounds": 0,
+            "assists": 3,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 2,
+              "attempted": 4,
+              "percentage": 50
+            },
+            "threePointers": {
+              "made": 2,
+              "attempted": 2,
+              "percentage": 100
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 2,
+              "percentage": 0
+            },
+            "playerId": "5236307",
+            "playerName": "Mario Zaki",
+            "jersey": null
+          },
+          {
+            "points": 13,
+            "rebounds": 15,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 6,
+              "attempted": 12,
+              "percentage": 50
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 1,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 2,
+              "percentage": 50
+            },
+            "playerId": "5236308",
+            "playerName": "Wes Whitlock",
+            "jersey": null
+          },
+          {
+            "points": 13,
+            "rebounds": 3,
+            "assists": 2,
+            "steals": 3,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 5,
+              "attempted": 12,
+              "percentage": 41.7
+            },
+            "threePointers": {
+              "made": 2,
+              "attempted": 6,
+              "percentage": 33.3
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 1,
+              "percentage": 100
+            },
+            "playerId": "5236309",
+            "playerName": "George Mekhail",
+            "jersey": null
+          },
+          {
+            "points": 7,
+            "rebounds": 3,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 3,
+              "attempted": 7,
+              "percentage": 42.9
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 4,
+              "percentage": 25
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236310",
+            "playerName": "Joseph Mekhail",
+            "jersey": null
+          }
+        ],
+        "totals": {
+          "points": 94,
+          "rebounds": 41,
+          "assists": 12,
+          "steals": 10,
+          "blocks": 1,
+          "turnovers": 0,
+          "fouls": 0,
+          "fieldGoals": {
+            "made": 34,
+            "attempted": 67,
+            "percentage": 50.7
+          },
+          "threePointers": {
+            "made": 10,
+            "attempted": 25,
+            "percentage": 40
+          },
+          "freeThrows": {
+            "made": 16,
+            "attempted": 29,
+            "percentage": 55.2
+          }
+        }
+      },
+      "away": {
+        "teamId": "892660",
+        "teamName": "Gideons Warriors",
+        "score": 93,
+        "players": [
+          {
+            "points": 8,
+            "rebounds": 10,
+            "assists": 1,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 3,
+              "attempted": 8,
+              "percentage": 37.5
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 2,
+              "attempted": 8,
+              "percentage": 25
+            },
+            "playerId": "5236258",
+            "playerName": "Mathew Gearges",
+            "jersey": null
+          },
+          {
+            "points": 10,
+            "rebounds": 3,
+            "assists": 4,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 4,
+              "attempted": 5,
+              "percentage": 80
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 1,
+              "percentage": 100
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 2,
+              "percentage": 50
+            },
+            "playerId": "5236259",
+            "playerName": "Morcos Gendi",
+            "jersey": null
+          },
+          {
+            "points": 0,
+            "rebounds": 2,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 0,
+              "attempted": 2,
+              "percentage": 0
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 1,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236260",
+            "playerName": "Daniel Tanios",
+            "jersey": null
+          },
+          {
+            "points": 16,
+            "rebounds": 2,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 7,
+              "attempted": 13,
+              "percentage": 53.8
+            },
+            "threePointers": {
+              "made": 2,
+              "attempted": 6,
+              "percentage": 33.3
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 1,
+              "percentage": 0
+            },
+            "playerId": "5236262",
+            "playerName": "Mario Tanuous",
+            "jersey": null
+          },
+          {
+            "points": 8,
+            "rebounds": 5,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 3,
+              "attempted": 5,
+              "percentage": 60
+            },
+            "threePointers": {
+              "made": 1,
+              "attempted": 3,
+              "percentage": 33.3
+            },
+            "freeThrows": {
+              "made": 1,
+              "attempted": 2,
+              "percentage": 50
+            },
+            "playerId": "5236263",
+            "playerName": "Andre Habib",
+            "jersey": null
+          },
+          {
+            "points": 39,
+            "rebounds": 6,
+            "assists": 2,
+            "steals": 1,
+            "blocks": 1,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 12,
+              "attempted": 20,
+              "percentage": 60
+            },
+            "threePointers": {
+              "made": 9,
+              "attempted": 13,
+              "percentage": 69.2
+            },
+            "freeThrows": {
+              "made": 6,
+              "attempted": 8,
+              "percentage": 75
+            },
+            "playerId": "5236264",
+            "playerName": "Samy Hanna",
+            "jersey": null
+          },
+          {
+            "points": 4,
+            "rebounds": 1,
+            "assists": 0,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 2,
+              "attempted": 3,
+              "percentage": 66.7
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 0,
+              "percentage": null
+            },
+            "playerId": "5236265",
+            "playerName": "Nathan Ghobrial",
+            "jersey": null
+          },
+          {
+            "points": 8,
+            "rebounds": 1,
+            "assists": 9,
+            "steals": 0,
+            "blocks": 0,
+            "turnovers": 0,
+            "fouls": 0,
+            "fieldGoals": {
+              "made": 4,
+              "attempted": 9,
+              "percentage": 44.4
+            },
+            "threePointers": {
+              "made": 0,
+              "attempted": 2,
+              "percentage": 0
+            },
+            "freeThrows": {
+              "made": 0,
+              "attempted": 4,
+              "percentage": 0
+            },
+            "playerId": "5236266",
+            "playerName": "Max Attia",
+            "jersey": null
+          }
+        ],
+        "totals": {
+          "points": 93,
+          "rebounds": 30,
+          "assists": 18,
+          "steals": 2,
+          "blocks": 1,
+          "turnovers": 0,
+          "fouls": 0,
+          "fieldGoals": {
+            "made": 35,
+            "attempted": 65,
+            "percentage": 53.8
+          },
+          "threePointers": {
+            "made": 13,
+            "attempted": 26,
+            "percentage": 50
+          },
+          "freeThrows": {
+            "made": 10,
+            "attempted": 25,
+            "percentage": 40
+          }
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "label": "team",
+      "url": "https://leagues.teamlinkt.com/leagues/getTeam/9966/892656",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "9cdd4f8f016203155ae711a6511d5a1940ab706a0457c6b4f08971e85510a0c8"
+    },
+    {
+      "label": "team-home",
+      "url": "https://leagues.teamlinkt.com/leagues/getTeamHomePage/892656",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "a6a7a39c95cd918620207a6c3e772ae339ae6481fface1e0b70d73c52643fe85"
+    },
+    {
+      "label": "roster",
+      "url": "https://leagues.teamlinkt.com/leagues/getTeamRosterForDatatable/9966/892656/1",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "2ba62782ae700fc943c3c350e5c44310e6f99cffc47bd151c226e9f3f21ede4d"
+    },
+    {
+      "label": "schedule",
+      "url": "https://leagues.teamlinkt.com/leagues/getAllEvents/9966",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "a50909f26882af810910083dcdc4d73e8b4eb5c14e16666f143155e99db27f1b"
+    },
+    {
+      "label": "youtube-channel",
+      "url": "https://www.youtube.com/@SBLHoops",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "3b3f5ba77e25099872c5296b158dcff87b57f8b203779c5accf364e3ef1a4169"
+    },
+    {
+      "label": "game-3730679",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3730679",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "910c62adf80e9978fac04f8cf49552643811cf75c7934c3cef234824a1b227e2"
+    },
+    {
+      "label": "game-3731216",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3731216",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "596b1090d8cab32d75fab433b899c1e19c51adcc188ab12652ac89f2f36307d3"
+    },
+    {
+      "label": "game-3745236",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745236",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "cca007b95207898071ee20bf4ce7cf6e3a1db2f25dad86298f5207530dd1b7f7"
+    },
+    {
+      "label": "game-3745239",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745239",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "6a1691e6884fe9bd10a0ebba751ec7d51d5abf11a4f5119272d9ca39c4e1601d"
+    },
+    {
+      "label": "game-3745244",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745244",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "2e82921fe01c1350628e18a7fcecb32c39562b301ad5657b7a302121b6b795a0"
+    },
+    {
+      "label": "game-3745250",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745250",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "50b9251c82e3f7316235493442a52cae524c7bbef01b79bd40d16df2d3de0935"
+    },
+    {
+      "label": "game-3745254",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745254",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "9dcaddd19552d917634ca11e751da02e4d8d080d875a138cfbd68605340d3558"
+    },
+    {
+      "label": "game-3829944",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3829944",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "4d324d937901841d2f4080ce71c62c7c1f84ced07bdc3de255b5d63ae52750d4"
+    },
+    {
+      "label": "game-3845473",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3845473",
+      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "hash": "2eb68544453655b356e0f89859cdab90e468b9fe2bf9fc4c65ea992934f1eef2"
+    }
+  ]
+}
