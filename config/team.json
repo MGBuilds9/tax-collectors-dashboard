@@ -1,24 +1,23 @@
 {
-  "provider": "stm",
-  "projectSlug": "stm-team-1-dashboard",
-  "leagueId": "mens-basketball",
-  "seasonId": "summer-2026",
-  "teamId": "0dce2102-2b06-4750-b25d-8cbdba23d2c5",
-  "teamName": "Semi-Uncs",
-  "sourceTeamName": "Team 1",
-  "seasonName": "Summer 2026",
-  "leagueName": "STM Men’s Basketball",
+  "provider": "teamlinkt",
+  "projectSlug": "tax-collectors-dashboard",
+  "leagueId": "smsv-basketball",
+  "seasonId": "57100",
+  "teamId": "892656",
+  "teamName": "The Tax Collectors",
+  "sourceTeamName": "The Tax Collectors",
+  "seasonName": "2026 Summer Men’s Season",
+  "leagueName": "SMSV Basketball · Legacy League",
   "timezone": "America/Toronto",
   "active": true,
   "manualCloseoutAt": null,
   "youtube": {
-    "channelUrl": "https://www.youtube.com/@STMSports-t3z",
-    "teamAliases": ["Team 1", "Semi-Uncs"]
+    "channelUrl": "https://www.youtube.com/@SBLHoops",
+    "teamAliases": ["The Tax Collectors", "Tax Collectors"]
   },
   "source": {
-    "leaguePath": "mens-basketball"
-  },
-  "rules": {
-    "wednesdayStartTime": "20:00"
+    "associationId": "9966",
+    "teamId": "892656",
+    "seasonId": "57100"
   }
 }
