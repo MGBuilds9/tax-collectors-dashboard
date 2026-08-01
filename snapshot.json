@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-07-29T20:38:44.549Z",
-  "contentHash": "cbf274c6f3be95a5eb48e3eef7c02733e5cdf8dd41f9a9e002b5def22ca8c9ed",
+  "generatedAt": "2026-08-01T04:27:40.106Z",
+  "contentHash": "f781146326bd248deeae706b3fc028a257280c2368f408eecac4b088c738b68f",
   "identity": {
     "provider": "teamlinkt",
     "leagueId": "smsv-basketball",
@@ -305,6 +305,24 @@
       "opponentScore": null,
       "result": null,
       "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3845473",
+      "hasBoxScore": false,
+      "videoUrl": null,
+      "videoTitle": null
+    },
+    {
+      "id": "3870627",
+      "date": "2026-08-02",
+      "scheduledAt": "2026-08-02T19:45:00",
+      "displayTime": "19:45",
+      "state": "scheduled",
+      "opponentId": "892659",
+      "opponentName": "The Forty",
+      "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
+      "isHome": false,
+      "teamScore": null,
+      "opponentScore": null,
+      "result": null,
+      "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3870627",
       "hasBoxScore": false,
       "videoUrl": null,
       "videoTitle": null
@@ -1898,86 +1916,92 @@
     {
       "label": "team",
       "url": "https://leagues.teamlinkt.com/leagues/getTeam/9966/892656",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "9cdd4f8f016203155ae711a6511d5a1940ab706a0457c6b4f08971e85510a0c8"
     },
     {
       "label": "team-home",
       "url": "https://leagues.teamlinkt.com/leagues/getTeamHomePage/892656",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "a6a7a39c95cd918620207a6c3e772ae339ae6481fface1e0b70d73c52643fe85"
     },
     {
       "label": "roster",
       "url": "https://leagues.teamlinkt.com/leagues/getTeamRosterForDatatable/9966/892656/1",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "2ba62782ae700fc943c3c350e5c44310e6f99cffc47bd151c226e9f3f21ede4d"
     },
     {
       "label": "schedule",
       "url": "https://leagues.teamlinkt.com/leagues/getAllEvents/9966",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
-      "hash": "a50909f26882af810910083dcdc4d73e8b4eb5c14e16666f143155e99db27f1b"
+      "checkedAt": "2026-08-01T04:27:40.106Z",
+      "hash": "895710cb5e81b23893b0558d069a071532b50f99a98c0edcad5603b380ef7166"
     },
     {
       "label": "youtube-channel",
       "url": "https://www.youtube.com/@SBLHoops",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
-      "hash": "3b3f5ba77e25099872c5296b158dcff87b57f8b203779c5accf364e3ef1a4169"
+      "checkedAt": "2026-08-01T04:27:40.106Z",
+      "hash": "5261f1d4d8c984eca84e728177ea649113ebf9b238f3d72b5229aaa85b0def26"
     },
     {
       "label": "game-3730679",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3730679",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "910c62adf80e9978fac04f8cf49552643811cf75c7934c3cef234824a1b227e2"
     },
     {
       "label": "game-3731216",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3731216",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "596b1090d8cab32d75fab433b899c1e19c51adcc188ab12652ac89f2f36307d3"
     },
     {
       "label": "game-3745236",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745236",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "cca007b95207898071ee20bf4ce7cf6e3a1db2f25dad86298f5207530dd1b7f7"
     },
     {
       "label": "game-3745239",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745239",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "6a1691e6884fe9bd10a0ebba751ec7d51d5abf11a4f5119272d9ca39c4e1601d"
     },
     {
       "label": "game-3745244",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745244",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "2e82921fe01c1350628e18a7fcecb32c39562b301ad5657b7a302121b6b795a0"
     },
     {
       "label": "game-3745250",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745250",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "50b9251c82e3f7316235493442a52cae524c7bbef01b79bd40d16df2d3de0935"
     },
     {
       "label": "game-3745254",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745254",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "9dcaddd19552d917634ca11e751da02e4d8d080d875a138cfbd68605340d3558"
     },
     {
       "label": "game-3829944",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3829944",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "4d324d937901841d2f4080ce71c62c7c1f84ced07bdc3de255b5d63ae52750d4"
     },
     {
       "label": "game-3845473",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3845473",
-      "checkedAt": "2026-07-29T20:38:44.549Z",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
       "hash": "2eb68544453655b356e0f89859cdab90e468b9fe2bf9fc4c65ea992934f1eef2"
+    },
+    {
+      "label": "game-3870627",
+      "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3870627",
+      "checkedAt": "2026-08-01T04:27:40.106Z",
+      "hash": "ba847215d93b54b4bda72ec7448a1cbdebaf3ac33805565126d2a68d84a5af0f"
     }
   ]
 }
