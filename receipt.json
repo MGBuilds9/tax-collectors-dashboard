@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-03T04:29:49.926Z",
-  "contentHash": "77f12c2e35b6484ac72155e0ab46b8da3e6b3eb65a0fa895a3eba146714bd0be",
-  "previousHash": "f781146326bd248deeae706b3fc028a257280c2368f408eecac4b088c738b68f",
+  "generatedAt": "2026-08-05T20:41:05.439Z",
+  "contentHash": "369ae6cf2d7a11adeb118a8909c247ae49fe30dcb1676ecce7723a1ca5015183",
+  "previousHash": "77f12c2e35b6484ac72155e0ab46b8da3e6b3eb65a0fa895a3eba146714bd0be",
   "provider": "teamlinkt",
   "teamId": "892656",
   "sourceCount": 15,
   "gameCount": 10,
-  "boxScoreCount": 3,
+  "boxScoreCount": 5,
   "matchedVideoCount": 3
 }
