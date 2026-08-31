@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "generatedAt": "2026-08-30T09:19:13.684Z",
-  "contentHash": "2fe85c0da8c634048d189a9103d2a352bc021000c31b481ebe021e0748f21d7e",
+  "generatedAt": "2026-08-31T18:01:27.817Z",
+  "contentHash": "61a1b322c9fe391e23097366509f0b0502ec0143a9e0b401efc77837d65ea1a1",
   "identity": {
     "provider": "teamlinkt",
     "leagueId": "smsv-basketball",
@@ -26,11 +26,11 @@
     "name": "The Tax Collectors",
     "season": "2026 Summer Men’s Season",
     "wins": 7,
-    "losses": 5,
-    "pointsFor": 928,
-    "pointsAgainst": 888,
-    "differential": 40,
-    "standing": 3
+    "losses": 6,
+    "pointsFor": 996,
+    "pointsAgainst": 986,
+    "differential": 10,
+    "standing": 4
   },
   "roster": [
     {
@@ -386,14 +386,14 @@
       "date": "2026-08-29",
       "scheduledAt": "2026-08-29T20:50:00",
       "displayTime": "20:50",
-      "state": "unreported",
+      "state": "final",
       "opponentId": "892660",
       "opponentName": "Gideons Warriors",
       "venue": "St. Maurice & St. Verena Coptic Orthodox Church (SMSV)",
       "isHome": true,
-      "teamScore": null,
-      "opponentScore": null,
-      "result": null,
+      "teamScore": 68,
+      "opponentScore": 98,
+      "result": "L",
       "officialUrl": "https://leagues.teamlinkt.com/Leagues/event/9966/3919079",
       "hasBoxScore": false,
       "videoUrl": null,
@@ -405,16 +405,16 @@
       "rank": 1,
       "teamId": "892661",
       "teamName": "Guardian Angels",
-      "wins": 9,
+      "wins": 10,
       "losses": 2,
-      "gamesPlayed": 11,
-      "winPct": 0.8181818181818182,
-      "pointsFor": 853,
-      "pointsAgainst": 746,
-      "differential": 107,
-      "streak": "W4",
+      "gamesPlayed": 12,
+      "winPct": 0.8333333333333334,
+      "pointsFor": 941,
+      "pointsAgainst": 830,
+      "differential": 111,
+      "streak": "W5",
       "form": [
-        "L",
+        "W",
         "W",
         "W",
         "W",
@@ -426,56 +426,56 @@
       "teamId": "892657",
       "teamName": "The Judah Lions",
       "wins": 8,
-      "losses": 3,
-      "gamesPlayed": 11,
-      "winPct": 0.7272727272727273,
+      "losses": 4,
+      "gamesPlayed": 12,
+      "winPct": 0.6666666666666666,
       "pointsFor": 817,
-      "pointsAgainst": 664,
-      "differential": 153,
-      "streak": "W1",
+      "pointsAgainst": 684,
+      "differential": 133,
+      "streak": "L1",
       "form": [
+        "L",
+        "L",
+        "L",
         "W",
-        "L",
-        "L",
-        "L",
-        "W"
+        "L"
       ]
     },
     {
       "rank": 3,
-      "teamId": "892656",
-      "teamName": "The Tax Collectors",
-      "wins": 7,
+      "teamId": "892660",
+      "teamName": "Gideons Warriors",
+      "wins": 8,
       "losses": 5,
-      "gamesPlayed": 12,
-      "winPct": 0.5833333333333334,
-      "pointsFor": 928,
-      "pointsAgainst": 888,
-      "differential": 40,
-      "streak": "W2",
+      "gamesPlayed": 13,
+      "winPct": 0.6153846153846154,
+      "pointsFor": 898,
+      "pointsAgainst": 871,
+      "differential": 27,
+      "streak": "W1",
       "form": [
         "W",
-        "L",
-        "L",
         "W",
+        "W",
+        "L",
         "W"
       ]
     },
     {
       "rank": 4,
-      "teamId": "892660",
-      "teamName": "Gideons Warriors",
+      "teamId": "892656",
+      "teamName": "The Tax Collectors",
       "wins": 7,
-      "losses": 5,
-      "gamesPlayed": 12,
-      "winPct": 0.5833333333333334,
-      "pointsFor": 800,
-      "pointsAgainst": 803,
-      "differential": -3,
+      "losses": 6,
+      "gamesPlayed": 13,
+      "winPct": 0.5384615384615384,
+      "pointsFor": 996,
+      "pointsAgainst": 986,
+      "differential": 10,
       "streak": "L1",
       "form": [
-        "W",
-        "W",
+        "L",
+        "L",
         "W",
         "W",
         "L"
@@ -485,20 +485,20 @@
       "rank": 5,
       "teamId": "892659",
       "teamName": "The Forty",
-      "wins": 5,
+      "wins": 6,
       "losses": 7,
-      "gamesPlayed": 12,
-      "winPct": 0.4166666666666667,
-      "pointsFor": 772,
+      "gamesPlayed": 13,
+      "winPct": 0.46153846153846156,
+      "pointsFor": 792,
       "pointsAgainst": 847,
-      "differential": -75,
-      "streak": "L2",
+      "differential": -55,
+      "streak": "W1",
       "form": [
         "W",
         "W",
-        "W",
         "L",
-        "L"
+        "L",
+        "W"
       ]
     },
     {
@@ -506,13 +506,13 @@
       "teamId": "892658",
       "teamName": "St.Philopateer",
       "wins": 3,
-      "losses": 9,
-      "gamesPlayed": 12,
-      "winPct": 0.25,
-      "pointsFor": 876,
-      "pointsAgainst": 980,
-      "differential": -104,
-      "streak": "L5",
+      "losses": 10,
+      "gamesPlayed": 13,
+      "winPct": 0.23076923076923078,
+      "pointsFor": 960,
+      "pointsAgainst": 1068,
+      "differential": -108,
+      "streak": "L6",
       "form": [
         "L",
         "L",
@@ -2406,116 +2406,116 @@
     {
       "label": "team",
       "url": "https://leagues.teamlinkt.com/leagues/getTeam/9966/892656",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "9cdd4f8f016203155ae711a6511d5a1940ab706a0457c6b4f08971e85510a0c8"
     },
     {
       "label": "team-home",
       "url": "https://leagues.teamlinkt.com/leagues/getTeamHomePage/892656",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
-      "hash": "b867e796ebe7c1bd75092e6b6260d43adb6d8e4668a0b0963f55d013e89e72ed"
+      "checkedAt": "2026-08-31T18:01:27.817Z",
+      "hash": "ffd82e1ac57c34a71d1f921328e3069104624f6a296e54ecc2a49e7e352ac553"
     },
     {
       "label": "roster",
       "url": "https://leagues.teamlinkt.com/leagues/getTeamRosterForDatatable/9966/892656/1",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "2ba62782ae700fc943c3c350e5c44310e6f99cffc47bd151c226e9f3f21ede4d"
     },
     {
       "label": "schedule",
       "url": "https://leagues.teamlinkt.com/leagues/getAllEvents/9966",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
-      "hash": "d2ac251d7ffe02d6729e4816b5e79adfcb557b5d67457fc553939a7385796e11"
+      "checkedAt": "2026-08-31T18:01:27.817Z",
+      "hash": "d63741076c86bece583a6262e20b0add9fe43a427924659c0c279438bb2dfc0e"
     },
     {
       "label": "youtube-channel",
       "url": "https://www.youtube.com/@SBLHoops",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
-      "hash": "ebff1eb9b039449a97a56f13d73e70cd39f191abb119bcd8944dcaf612caa19f"
+      "checkedAt": "2026-08-31T18:01:27.817Z",
+      "hash": "bf2e1de25e70342495a6d8f76de8356069aef6030ef063ca8541f10e697be709"
     },
     {
       "label": "game-3730679",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3730679",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "910c62adf80e9978fac04f8cf49552643811cf75c7934c3cef234824a1b227e2"
     },
     {
       "label": "game-3731216",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3731216",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "596b1090d8cab32d75fab433b899c1e19c51adcc188ab12652ac89f2f36307d3"
     },
     {
       "label": "game-3745236",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745236",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "cca007b95207898071ee20bf4ce7cf6e3a1db2f25dad86298f5207530dd1b7f7"
     },
     {
       "label": "game-3745239",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745239",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "6a1691e6884fe9bd10a0ebba751ec7d51d5abf11a4f5119272d9ca39c4e1601d"
     },
     {
       "label": "game-3745244",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745244",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "2e82921fe01c1350628e18a7fcecb32c39562b301ad5657b7a302121b6b795a0"
     },
     {
       "label": "game-3745250",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745250",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "50b9251c82e3f7316235493442a52cae524c7bbef01b79bd40d16df2d3de0935"
     },
     {
       "label": "game-3745254",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3745254",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "9dcaddd19552d917634ca11e751da02e4d8d080d875a138cfbd68605340d3558"
     },
     {
       "label": "game-3829944",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3829944",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "2426a53ce11d52423a58b31072ff3bc4eafb1c8bd22670e6f5589a24a6f1f357"
     },
     {
       "label": "game-3845473",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3845473",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "9b3fcde4fd9f7c4681593751d7b38506d9714a9b80150e9b231cf77193fcd9b3"
     },
     {
       "label": "game-3870627",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3870627",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "697c9393944dd2b5ed85dd5b9c0081a579ecfbac29a004312c698b1abcc9d82c"
     },
     {
       "label": "game-3883315",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3883315",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "b7e5fd0d373d7866faaed3ac01ffb62a4c944d6d2163e70aedf6d6db218b441d"
     },
     {
       "label": "game-3883318",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3883318",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "184da420bf077dfb9f2a8ba9b5fa35e7503693abb629dc3c58330dcfaa7ba06f"
     },
     {
       "label": "game-3883320",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3883320",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
+      "checkedAt": "2026-08-31T18:01:27.817Z",
       "hash": "a7515a4142bfdf3d9fdbbb233c950d442f8cb7bebc699eb6d1b008109d82e351"
     },
     {
       "label": "game-3919079",
       "url": "https://leagues.teamlinkt.com/Leagues/event/9966/3919079",
-      "checkedAt": "2026-08-30T09:19:13.684Z",
-      "hash": "e27ba145b808cb3315071f3e1c3d5818a59fdb645bd6534a04e0f5712c45bf6d"
+      "checkedAt": "2026-08-31T18:01:27.817Z",
+      "hash": "3704fa80415c34f101df1f6b1b012e5bec73c28b9251d016f3474dbbbde1f077"
     }
   ]
 }
